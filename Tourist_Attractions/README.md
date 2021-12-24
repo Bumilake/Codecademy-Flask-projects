@@ -1,2 +1,2 @@
-# Codecademy-Flask-projects
+# Tourist Attractions
 All projects from the Flask course
